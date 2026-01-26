@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv*
+venv/
+
+# YOLO model (كبير الحجم)
+models/*.pt
+
+# OS
+.DS_Store
+Thumbs.db
